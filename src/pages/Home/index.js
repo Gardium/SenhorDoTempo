@@ -38,6 +38,7 @@ export default function Home() {
             setBackground(["#0c3741", "#0f2f61"]);
 
           setIcon(condition(response.data.results.condition_slug));
+          console.log(icon);
           setLoading(!loading);
         })
         .catch((error) => {

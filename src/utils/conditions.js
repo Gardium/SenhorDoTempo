@@ -26,7 +26,7 @@ export function condition(condition) {
       break;
     case "cloudly_night":
       icon = {
-        name: "cloudy-night-outline-outline",
+        name: "cloudy-night-outline",
         color: "#0662ff",
       };
 
@@ -34,14 +34,14 @@ export function condition(condition) {
 
     case "snow":
       icon = {
-        name: "snow-outline-outline",
+        name: "snow-outline",
         color: "#bec",
       };
 
       break;
     case "rain":
       icon = {
-        name: "rainy-outline-outline",
+        name: "rainy-outline",
         color: "#1ec9ff",
       };
 

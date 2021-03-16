@@ -4,6 +4,7 @@ import { LinearGradient } from "expo-linear-gradient";
 import { Ionicons } from "@expo/vector-icons";
 
 export default function Header({ background, weather, icon }) {
+  console.log(icon.name);
   return (
     <LinearGradient style={styles.header} colors={background}>
       <Text style={styles.date}>{weather.results.date}</Text>
