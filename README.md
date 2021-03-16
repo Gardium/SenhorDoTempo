@@ -15,14 +15,14 @@
  ## 🖼️ Preview
  <div align="center">
  <h3>Home<h3/>
-  <img height = "500px" src="./assets/Home.jpeg"/>
-  <img height = "500px" src="./assets/Navigation.jpeg"/>
+  <img height = "500px" src="./assets/Home.png"/>
+  <img height = "500px" src="./assets/Navigation.png"/>
   </div>
    <div align="center">
    <h3>Search<h3/>
-  <img height = "500px" src="./assets/Search.jpeg"/>
- <img height = "500px" src="./assets/SearchWithCity.jpeg"/>
-<img height = "500px" src="./assets/Modal.jpeg"/>  
+  <img height = "500px" src="./assets/Search.png"/>
+ <img height = "500px" src="./assets/SearchWithCity.png"/>
+<img height = "500px" src="./assets/Modal.png"/>  
  </div>
  <div align="center">
 
